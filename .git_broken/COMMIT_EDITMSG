@@ -1,0 +1,17 @@
+Finish descreption tomato bean stew
+
+Added ingredients, steps and image
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is ahead of 'origin/main' by 7 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	new file:   images/beanstew.jpg
+#	modified:   index.html
+#	modified:   recipes/pasta-alla-norma.html
+#	modified:   recipes/spaghetti-aglio-e-olio.html
+#	modified:   recipes/tomato-bean-stew.html
+#

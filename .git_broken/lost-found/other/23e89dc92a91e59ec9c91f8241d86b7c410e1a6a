@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+	<a href="../index.html">Home</a>
+	<h1>Bean Stew</h1>
+	<p>This simple stew is so simple, yet versatile. It's main component is a variation of beans.</p>
+	<p>And what's not goot about beans? Packed with protein, and fibers, healthy an tasty at the same time!</p> 
+</body>
+</html>

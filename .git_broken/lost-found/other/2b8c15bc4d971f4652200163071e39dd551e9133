@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+	<a href="../index.html">Home</a>
+	<h1>Bean Stew</h1>
+	<h2>Description</h2>
+	<p>This stew is so simple, yet versatile. It's main component is tomatoes and a variation of beans.</p>
+	<p>And what's not goot about beans? Packed with protein, and fibers, healthy an tasty at the same time!</p>
+
+	<h2>Ingredients</h2>
+	<ul>
+		<li>Beans - kidney beans, black beans, green beans...whatever's in your pantry</li>
+		<li>Fresh tomatoes or chopped canned tomatoes</li>
+		<li>Bell pepper</li>
+		<li>Any arabic spice blend, lik baharat or ras el hanout</li>
+		<li>Salt, pepper</li>
+	</ul>
+</body>
+</html>
