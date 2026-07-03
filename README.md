@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # This is my first simple project getting the basics of html
 
 ## So far I learned the following:
@@ -9,3 +10,6 @@
 * Heading levels
 * Linking page
 * Using basic git workflow
+=======
+# odin-recipes
+>>>>>>> origin
