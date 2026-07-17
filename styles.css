@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+
+li {
+    background-color: rgb(177, 137, 105);
+    list-style: none;
+    padding: 25px;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 15px;
+
+}
